@@ -19,7 +19,9 @@ Patch Reviewer: Maddeline Vose
 6)	For the (onebang,delay, and number object) in the patch, change the description to a common term such as FPS instead of “minimum time between each attack”. (COMPLETED)
 7)	Explain the bpatcher object, and the source.
     a.	This is a keyfeature of your patch and needs to be explained in a very simple way like this is what allows for the sound to enter into Max/Msp. (COMPLETED)
-8)	Explain the ezdac~ object in max 
+8)	Explain the ezdac~ object in max (COMPLETED)
     a.	Basically works as an on or off button for your patch. 
     b.	Insert a comment saying to click here.
     c.	Anything with a ~ in max is audio
+    
+   TO DO LIST COMPLETE
