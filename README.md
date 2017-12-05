@@ -1,7 +1,7 @@
 # Max-Midterm
 Ben Greenfeld Patch 
 
-Description
+Description:
 The function of my patch invloves visuals reacting to audio. By pulling in the audio file (yogi.mp3) included on GitHub to the source, the data is then split into two paths. Path 1 analyzes the spikes of the audio track and feeds that data into a color picker and subsiquently the preview. Path 2 feeds the audio into an audio splitter then into a pattern mapper. With the feeds from path 1 and 2 the result is a visuals display of shapes and colors reacting to the audio.
 
 Ben's Role: Developer
